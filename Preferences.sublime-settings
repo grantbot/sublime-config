@@ -1,5 +1,5 @@
 {
-	"auto_complete": false,
+	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_match_enabled": true,
 	"bold_folder_labels": true,
