@@ -9,6 +9,7 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-pep8",
+		"SublimeLinter-pylint",
 		"Theme - Solarized Space",
 		"Theme - Spacegray"
 	]
