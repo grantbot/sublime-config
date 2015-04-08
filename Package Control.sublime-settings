@@ -5,6 +5,8 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"GitGutter",
+		"Monokai Extended",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeLinter",
