@@ -100,7 +100,7 @@
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
 	"use_tab_stops": true,
-  "vintage_lines.force_mode": true,
+	"vintage_lines.force_mode": true,
 	"vintage_start_in_command_mode": true,
 	"wide_caret": true,
 	"word_wrap": false
