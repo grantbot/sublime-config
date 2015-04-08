@@ -1,0 +1,23 @@
+[
+  { "keys": ["j", "k"], "command": "exit_insert_mode",
+      "context":
+      [
+          { "key": "setting.command_mode", "operand": false },
+          { "key": "setting.is_widget", "operand": false }
+      ]
+  },
+  { "keys": ["k", "j"], "command": "exit_insert_mode",
+      "context":
+      [
+          { "key": "setting.command_mode", "operand": false },
+          { "key": "setting.is_widget", "operand": false }
+      ]
+  },
+  { "keys": [",", "w"], "command": "save",
+      "context":
+      [
+          { "key": "setting.command_mode", "operand": true },
+          { "key": "setting.is_widget", "operand": false }
+      ]
+  }
+]
