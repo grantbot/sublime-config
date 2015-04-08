@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"Anaconda",
 		"GitGutter",
 		"Monokai Extended",
