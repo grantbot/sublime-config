@@ -4,8 +4,10 @@
 	],
 	"installed_packages":
 	[
+		"Anaconda",
 		"Package Control",
 		"SideBarEnhancements",
+		"Theme - Solarized Space",
 		"Theme - Spacegray"
 	]
 }
