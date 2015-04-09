@@ -4,7 +4,7 @@
 	"auto_match_enabled": true,
 	"bold_folder_labels": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/User/SublimeLinter/Solarized V (Light) (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended Bright (SL).tmTheme",
 	"detect_indentation": false,
 	"detect_slow_plugins": true,
 	"draw_indent_guides": true,
@@ -51,7 +51,7 @@
 		"no_round",
 		"subpixel_antialias"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -89,13 +89,14 @@
 		"side_bar_visible": true,
 		"status_bar_visible": true
 	},
+  "overlay_scroll_bars": "enabled",
 	"remember_open_files": true,
 	"remember_open_folders": true,
-	"save_on_focus_lost": true,
+	"save_on_focus_lost": false,
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "Solarized Space Brick.sublime-theme",
+	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
