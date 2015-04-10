@@ -89,7 +89,7 @@
 		"side_bar_visible": true,
 		"status_bar_visible": true
 	},
-  "overlay_scroll_bars": "enabled",
+	"overlay_scroll_bars": "enabled",
 	"remember_open_files": true,
 	"remember_open_folders": true,
 	"save_on_focus_lost": false,
