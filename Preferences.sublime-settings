@@ -45,7 +45,7 @@
 		"__pycache__",
 		".pants.d"
 	],
-	"font_face": "Menlo",
+	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"no_round",
