@@ -5,13 +5,13 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
-		"Anaconda",
 		"Dockerfile Syntax Highlighting",
 		"Git",
 		"Monokai Extended",
 		"Package Control",
 		"PackageResourceViewer",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-pep8",
 		"SublimeLinter-pylint",

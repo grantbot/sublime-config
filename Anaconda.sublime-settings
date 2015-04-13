@@ -1,4 +1,5 @@
 {
   "anaconda_linting": false,
+  "anaconda_debug": "profiler",
   "python_interpreter": "/usr/local/bin/python3"
 }
