@@ -64,7 +64,7 @@
        "all" - add word completions from all views from active window
        "none" - do not add word completions
     */
-    "codeintel_word_completions": "all",
+    "codeintel_word_completions": "buffer",
 
     /*
        Insert functions snippets.
