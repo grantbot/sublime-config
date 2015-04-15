@@ -11,6 +11,7 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"SideBarEnhancements",
+		"sublime-view-navigator",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-pep8",
@@ -18,5 +19,9 @@
 		"Theme - Solarized Space",
 		"Theme - Spacegray",
 		"VintageLines"
+	],
+	"repositories":
+	[
+		"https://github.com/grantbot/sublime-view-navigator"
 	]
 }
