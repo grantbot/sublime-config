@@ -51,7 +51,7 @@
 		"no_round",
 		"subpixel_antialias"
 	],
-	"font_size": 14,
+	"font_size": 13,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -90,6 +90,7 @@
 		"status_bar_visible": true
 	},
 	"overlay_scroll_bars": "enabled",
+	"preview_on_click": false,
 	"remember_open_files": true,
 	"remember_open_folders": true,
 	"save_on_focus_lost": false,
