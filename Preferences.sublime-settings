@@ -14,6 +14,7 @@
 	"file_exclude_patterns":
 	[
 		"*.pyc",
+    "*.pex",
 		"*.pyo",
 		"*.exe",
 		"*.dll",
@@ -44,8 +45,8 @@
 		"CVS",
 		"__pycache__",
 		".pants.d",
-    ".pids",
-    "node_modules",
+		".pids",
+		"node_modules"
 	],
 	"font_face": "Source Code Pro",
 	"font_options":
@@ -53,7 +54,7 @@
 		"no_round",
 		"subpixel_antialias"
 	],
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
