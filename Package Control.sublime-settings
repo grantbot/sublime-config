@@ -13,13 +13,13 @@
 		"PackageResourceViewer",
 		"SideBarEnhancements",
 		"sublime-view-navigator",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-pep8",
 		"SublimeLinter-pylint",
 		"Theme - Solarized Space",
 		"Theme - Spacegray",
-		"VintageLines"
+		"VintageLines",
+		"Vintageous"
 	],
 	"repositories":
 	[
