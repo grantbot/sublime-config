@@ -1,16 +1,18 @@
 [
   { "keys": ["j", "k"], "command": "_enter_normal_mode",
+      "args":
+        {"mode": "mode_insert"},
       "context":
       [
-          { "key": "setting.command_mode", "operand": false },
-          { "key": "setting.is_widget", "operand": false }
+          {"key": "vi_insert_mode_aware"}
       ]
   },
   { "keys": ["k", "j"], "command": "_enter_normal_mode",
+      "args":
+        {"mode": "mode_insert"},
       "context":
       [
-          { "key": "setting.command_mode", "operand": false },
-          { "key": "setting.is_widget", "operand": false }
+          {"key": "vi_insert_mode_aware"}
       ]
   },
   { "keys": [",", "w"], "command": "save",
