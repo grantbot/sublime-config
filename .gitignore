@@ -3,6 +3,5 @@
 *.merged-ca-bundle
 *.system-ca-bundle
 *.user-ca-bundle
-*(SL).tmTheme
 *.sublime-project
 *.sublime-workspace
