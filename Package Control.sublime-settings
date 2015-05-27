@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"Colorsublime",
 		"Dockerfile Syntax Highlighting",
 		"Git",
 		"Handlebars",
