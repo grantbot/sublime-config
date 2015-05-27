@@ -4,7 +4,7 @@
 	"auto_match_enabled": true,
 	"bold_folder_labels": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended Bright (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
 	"detect_indentation": false,
 	"detect_slow_plugins": true,
 	"draw_indent_guides": true,
@@ -14,7 +14,7 @@
 	"file_exclude_patterns":
 	[
 		"*.pyc",
-    "*.pex",
+		"*.pex",
 		"*.pyo",
 		"*.exe",
 		"*.dll",
@@ -54,7 +54,7 @@
 		"no_round",
 		"subpixel_antialias"
 	],
-	"font_size": 13,
+	"font_size": 15,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[

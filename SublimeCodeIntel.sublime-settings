@@ -64,7 +64,7 @@
        "all" - add word completions from all views from active window
        "none" - do not add word completions
     */
-    "codeintel_word_completions": "buffer",
+    "codeintel_word_completions": "all",
 
     /*
        Insert functions snippets.
@@ -121,7 +121,7 @@
             "codeintel_scan_extra_dir": [
                 "/Applications/Sublime Text.app/Contents/MacOS",
                 "~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-                "~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
+                "~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs",
             ],
             "codeintel_scan_files_in_project": true,
             "codeintel_selected_catalogs": []
@@ -133,12 +133,5 @@
             "codeintel_max_recursive_dir_depth": 3,
             "codeintel_selected_catalogs": ["jQuery"]
         },
-        "PHP": {
-            "php": "/Applications/MAMP/bin/php/php5.5.3/bin/php",
-            "codeintel_scan_extra_dir": [],
-            "codeintel_scan_files_in_project": false,
-            "codeintel_max_recursive_dir_depth": 15,
-            "codeintel_scan_exclude_dir":["/Applications/MAMP/bin/php/php5.5.3/"]
-        }
     }
 }
