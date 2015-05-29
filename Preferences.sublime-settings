@@ -33,7 +33,8 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"*.sublime-workspace"
+		"*.sublime-workspace",
+    "test/specs.js"
 	],
 	"find_selected_text": true,
 	"fold_buttons": true,
