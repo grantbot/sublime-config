@@ -3,3 +3,5 @@
 *.merged-ca-bundle
 *.system-ca-bundle
 *.user-ca-bundle
+*.sublime-project
+*.sublime-workspace

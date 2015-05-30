@@ -4,9 +4,10 @@
 	],
 	"installed_packages":
 	[
-		"All Autocomplete",
+		"Colorsublime",
 		"Dockerfile Syntax Highlighting",
 		"Git",
+		"Handlebars",
 		"Markdown Preview",
 		"Monokai Extended",
 		"Package Control",
@@ -15,11 +16,12 @@
 		"sublime-view-navigator",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"SublimeLinter-pep8",
 		"SublimeLinter-pylint",
-		"Theme - Solarized Space",
 		"Theme - Spacegray",
-		"VintageLines"
+		"VintageLines",
+		"Vintageous"
 	],
 	"repositories":
 	[

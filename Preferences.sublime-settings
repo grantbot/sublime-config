@@ -4,7 +4,7 @@
 	"auto_match_enabled": true,
 	"bold_folder_labels": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended Bright (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow_Night_Eighties (SL).tmTheme",
 	"detect_indentation": false,
 	"detect_slow_plugins": true,
 	"draw_indent_guides": true,
@@ -14,6 +14,7 @@
 	"file_exclude_patterns":
 	[
 		"*.pyc",
+		"*.pex",
 		"*.pyo",
 		"*.exe",
 		"*.dll",
@@ -32,7 +33,8 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"*.sublime-workspace"
+		"*.sublime-workspace",
+    "test/specs.js"
 	],
 	"find_selected_text": true,
 	"fold_buttons": true,
@@ -43,7 +45,9 @@
 		".hg",
 		"CVS",
 		"__pycache__",
-		".pants.d"
+		".pants.d",
+		".pids",
+		"node_modules"
 	],
 	"font_face": "Source Code Pro",
 	"font_options":

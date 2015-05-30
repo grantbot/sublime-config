@@ -1,16 +1,18 @@
 [
-  { "keys": ["j", "k"], "command": "exit_insert_mode",
+  { "keys": ["j", "k"], "command": "_enter_normal_mode",
+      "args":
+        {"mode": "mode_insert"},
       "context":
       [
-          { "key": "setting.command_mode", "operand": false },
-          { "key": "setting.is_widget", "operand": false }
+          {"key": "vi_insert_mode_aware"}
       ]
   },
-  { "keys": ["k", "j"], "command": "exit_insert_mode",
+  { "keys": ["k", "j"], "command": "_enter_normal_mode",
+      "args":
+        {"mode": "mode_insert"},
       "context":
       [
-          { "key": "setting.command_mode", "operand": false },
-          { "key": "setting.is_widget", "operand": false }
+          {"key": "vi_insert_mode_aware"}
       ]
   },
   { "keys": [",", "w"], "command": "save",
@@ -76,6 +78,14 @@
   },
   { "keys": ["ctrl+l"], "command": "navigate_pane",
       "args": {"direction": 1},
+      "context":
+      [
+          { "key": "setting.command_mode", "operand": true },
+          { "key": "setting.is_widget", "operand": false }
+      ]
+  },
+  { "keys": ["ctrl+p"], "command": "show_overlay",
+      "args": {"overlay": "goto", "show_files": true, "text": ""},
       "context":
       [
           { "key": "setting.command_mode", "operand": true },
