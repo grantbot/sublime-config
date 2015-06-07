@@ -34,7 +34,7 @@
 		"*.psd",
 		"*.db",
 		"*.sublime-workspace",
-    "test/specs.js"
+		"test/specs.js"
 	],
 	"find_selected_text": true,
 	"fold_buttons": true,
@@ -55,7 +55,7 @@
 		"no_round",
 		"subpixel_antialias"
 	],
-	"font_size": 15,
+	"font_size": 13,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
