@@ -4,10 +4,12 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"Colorsublime",
 		"Dockerfile Syntax Highlighting",
 		"Git",
 		"Handlebars",
+		"LESS",
 		"Markdown Preview",
 		"Monokai Extended",
 		"nginx",
