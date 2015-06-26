@@ -1,3 +1,6 @@
 {
-  "indent_to_bracket": false,
+	"extensions":
+	[
+	],
+	"indent_to_bracket": false
 }
