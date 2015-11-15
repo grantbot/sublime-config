@@ -43,11 +43,14 @@
 		".svn",
 		".git",
 		".hg",
+		"build-support",
 		"CVS",
 		"__pycache__",
 		".pants.d",
 		".pids",
-		"node_modules"
+		"public",
+		"node_modules",
+		"static"
 	],
 	"font_face": "Source Code Pro",
 	"font_options":
@@ -97,6 +100,10 @@
 	"preview_on_click": false,
 	"remember_open_files": true,
 	"remember_open_folders": true,
+	"rulers":
+	[
+		80
+	],
 	"save_on_focus_lost": false,
 	"scroll_past_end": true,
 	"show_full_path": true,
