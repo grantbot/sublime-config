@@ -6,6 +6,8 @@
 	],
 	"rulers":
 	[
+    80,
+    100
 	],
 	"smart_indent": true,
 	"tab_size": 4,
