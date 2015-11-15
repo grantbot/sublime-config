@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Babel",
+		"Better CoffeeScript",
 		"Colorsublime",
 		"Dockerfile Syntax Highlighting",
 		"Git",
@@ -23,6 +24,7 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-pep8",
 		"SublimeLinter-pylint",
+		"Syntax Highlighting for Sass",
 		"Theme - Spacegray",
 		"VintageLines",
 		"Vintageous"
