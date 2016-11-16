@@ -50,9 +50,10 @@
 		".pids",
 		"public",
 		"node_modules",
-		"static"
+		"static",
+		"wheelhouse"
 	],
-	"font_face": "Source Code Pro",
+	"font_face": "Input",
 	"font_options":
 	[
 		"no_round",
@@ -62,6 +63,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Package Control"
 	],
 	"ignored_words":
 	[
